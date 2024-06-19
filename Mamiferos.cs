@@ -34,8 +34,7 @@
             else
             {
                 Console.WriteLine("Não pode nadar!");
-            }
-            
+            }            
         }
 
         public void Subir(int metros)
@@ -59,8 +58,7 @@
             else
             {
                 Console.WriteLine("Não pode voar!");
-            }
-            
+            }            
         }
 
         public void Pousar()
